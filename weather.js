@@ -1,7 +1,7 @@
 //Current weather
 async function searchWeather(){
     const city = document.getElementById("cityInput").value.trim();
-    const apiKey = "cf48dd83b4ce40c0cbf78f99fed14f05";
+    const apiKey = "";
     const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
 
     try{
@@ -72,7 +72,7 @@ function updateBackgroundImage(weatherDescription) {
 //5 days forecast weather
 async function getFiveDayForecast(city) {
     document.getElementById("forecastTitle").style.display = "block";
-    const apiKey = "cf48dd83b4ce40c0cbf78f99fed14f05";
+    const apiKey = "";
     const forecastUrl = `https://api.openweathermap.org/data/2.5/forecast?q=${city}&appid=${apiKey}&units=metric`;
     try {
         const response = await fetch(forecastUrl);
@@ -102,4 +102,5 @@ async function getFiveDayForecast(city) {
         document.getElementById("forecast").innerHTML = `<p style="color:red;">❌ Forecast unavailable</p>`;
     }
 }
+
 
