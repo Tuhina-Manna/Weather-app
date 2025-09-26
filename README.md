@@ -23,6 +23,9 @@ OpenWeather API
 Screenshots
 
 Main Page: [click here](screenshot/main.jpg)
+Afrer Searching city: [click here](screenshot/city.jpg)
+Full weather report: [click here](screenshot/full_weather.jpg)
+5 days forecast: [click here](screenshot/forecast.jpg)
 
 ---
 
