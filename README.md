@@ -38,4 +38,5 @@ Full weather report: [click here](screenshot/full_weather.jpg)
 👤 Author
 
 Created by Tuhina Manna
-GitHub: [](https://github.com/Tuhina-Manna/Weather-app)
+
+GitHub: [https://github.com/Tuhina-Manna/Weather-app](https://github.com/Tuhina-Manna/Weather-app)
