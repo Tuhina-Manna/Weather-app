@@ -22,7 +22,7 @@ OpenWeather API
 
 Screenshots
 
-Main Page: [](screenshot/main.jpg)
+Main Page: [click here](screenshot/main.jpg)
 
 ---
 
